@@ -1,12 +1,49 @@
+body {
+    margin-top: 15%;
+    background-color:#E2E5E6;
+    color: #486577;
+    font-weight: bold;
+    
+    
+}
 fieldset {
-
+    display: inline-block;
+    float: center;
+    margin-left: 30%;
+    margin-right: 20%;
+    text-transform: uppercase;
+    width: 40%;
+    border-color: #486577;
+    border-width: 5px;
+    border-style: solid;
+    padding: 10px;
+    border-radius: 25px;
+    
+}
+legend {
+    font-family: cursive;
+    font-size: 20px;
+    padding-bottom: 15px;
+    font
+}
+img {
+    width: 100%;
 }
 div {
-
+    display: inline-block;
+    width: 100%;
+    
+    
+    text-align: center;
+    
 }
 h1 {
-
+    
 }
 p {
+    
+}
+a {
+    color:#618AB9;
     
 }
